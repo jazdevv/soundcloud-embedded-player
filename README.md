@@ -1,6 +1,6 @@
 ## NPM Packages
 
-No external NPM Packages are needed to install to use this component
+No external NPM Packages are needed to install in order to use this component
 
 ## Example of use
 
