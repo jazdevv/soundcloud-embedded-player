@@ -5,7 +5,6 @@ type Props = {
     className?: string,
     width: number,
     height: number,
-    color?: string, //color play button and other controls
     auto_play?: boolean,//setted to false improve ux, with true the style looks diferent and takes so time to autostart the music
     buying?: boolean, //default setted as false
     sharing?: boolean, //default setted as false
