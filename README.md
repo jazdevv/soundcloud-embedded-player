@@ -2,7 +2,15 @@
 
 No external NPM Packages are needed to install in order to use this component
 
-## Example of use
+## Easy example of use
+```
+<SoundCloudEmbedder 
+        soundCloudLink={"https://soundcloud.com/iamfearn/fearn-kites-radio-edit-master-4424"} 
+        width={500}
+        height={160}
+/>
+```
+## Complex Example of use
 
 ```
 <SoundCloudEmbedder 
